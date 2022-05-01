@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\1602第一次显示" 
+PRINT(".\Listings\1602第一次显示.m51") RAMSIZE(256) 

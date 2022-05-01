@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\AD×ª»»_0804" 
+PRINT(".\Listings\AD×ª»»_0804.m51") RAMSIZE(256) 

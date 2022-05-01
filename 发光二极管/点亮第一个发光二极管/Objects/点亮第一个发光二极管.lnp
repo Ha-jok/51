@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\lession1_1.obj" 
+TO ".\Objects\点亮第一个发光二极管" 
+PRINT(".\Listings\点亮第一个发光二极管.m51") RAMSIZE(256) 

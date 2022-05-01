@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\利用位循环实现流水灯" 
+PRINT(".\Listings\利用位循环实现流水灯.m51") RAMSIZE(256) 
